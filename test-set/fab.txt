@@ -1,0 +1,6 @@
+1|Nokia|Finlande
+2|HTC|Taiwan
+3|Samsung|Coree
+4|LG|Coree
+5|Apple|USA
+6|Blackberry|Canada
